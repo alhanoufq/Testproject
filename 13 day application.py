@@ -34,5 +34,3 @@ del thislist[0]
 del thislist[4]
 del thislist[2]
 print(thislist)
-
-
