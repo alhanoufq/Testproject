@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d6b9c4c-db29-47c5-9977-0598f8f33ef5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/31 day application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32&amp;33 day appliction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,17 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/31 day application.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -68,6 +58,7 @@
         <option value="$PROJECT_DIR$/29 day application.py" />
         <option value="$PROJECT_DIR$/30 day application.py" />
         <option value="$PROJECT_DIR$/31 day application.py" />
+        <option value="$PROJECT_DIR$/32&amp;33 day appliction.py" />
       </list>
     </option>
   </component>
@@ -115,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.31 day application">
+  <component name="RunManager" selected="Python.32&amp;33 day appliction">
     <configuration name="28 day application" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming saudi devvelop" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -200,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="32&amp;33 day appliction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming saudi devvelop" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +203,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RB.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32&amp;33 day appliction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.32&amp;33 day appliction" />
         <item itemvalue="Python.31 day application" />
         <item itemvalue="Python.30 day application" />
         <item itemvalue="Python.29 day application" />
         <item itemvalue="Python.28 day application" />
-        <item itemvalue="Python.RB" />
       </list>
     </recent_temporary>
   </component>
@@ -254,8 +245,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -492,7 +482,14 @@
     <entry file="file://$PROJECT_DIR$/31 day application.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32&amp;33 day appliction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
